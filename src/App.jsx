@@ -156,6 +156,9 @@ function App() {
 
 
         </div>
+        <div className=' flex justify-center'>
+            <p> Made By Mohit..</p>
+        </div>
 
       </div>
 
